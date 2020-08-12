@@ -1,0 +1,6 @@
+neovim
+neovim-runtime
+python3-neovim
+python3-pynvim
+vim-common
+vim-tiny
